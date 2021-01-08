@@ -1,0 +1,92 @@
+/* pages/about/about.wxss */
+.user-info {
+  background-color: #0bb9b6;
+  width: 100vw;
+  height: 250rpx;
+  display: flex;
+  align-items: center;
+  border-top: 1rpx solid #1dc7c5;
+  border-bottom: 1rpx solid #1dc7c5;
+}
+.user-info-vip {
+  width: 44rpx;
+  margin-right: 20rpx;
+}
+.user-info-avatar {
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 60rpx;
+  margin-left: 80rpx;
+  margin-right: 40rpx;
+  overflow: hidden;
+}
+.user-info-name {
+  font-size: 34rpx;
+  color: white;
+}
+
+.section {
+  width: 100vw;
+  background-color: white;
+  /*margin-top: 20rpx;*/
+}
+.section-top {
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  height: 60rpx;
+}
+.section-text {
+  font-size: 30rpx;
+  /*font-weight: bold;*/
+  margin-left: 20rpx;
+}
+.section-bottom {
+  width: calc(100vw - 60rpx);
+  padding: 30rpx;
+  display: flex;
+}
+.section-bottom-item {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.section-bottom-item image {
+  width: 10vw;
+  height: 10vw;
+}
+.section-bottom-item text {
+  color: #707070;
+  font-size: 24rpx;
+  text-align: center;
+}
+.ding{
+  width: 100vw;
+  background-color: white;
+}
+.dingyue{
+    height: 100rpx;
+    width: 98%;
+    border-bottom: 1rpx solid #e4d6d6;
+    margin: 20rpx 10rpx 50rpx 5rpx;
+    display: flex;
+    align-items: center;
+}
+.dingyue-text{
+    width: 95%;
+    color: #707070;
+    font-size: 30rpx;
+    margin-left: 10rpx;
+}
+.dingyue-info{
+   width:44rpx;
+   margin-right: 10rpx;
+}
+.dingyue-rg{
+    color: #707070;
+    font-size: 30rpx;
+    margin-right: 30rpx;
+    float: right;
+}

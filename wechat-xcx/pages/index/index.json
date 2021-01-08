@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "production": "/components/production/production",
+     "add-tips": "/components/add-tips/index"
+
+  },
+    "enablePullDownRefresh": true,
+    "onReachBottomDistance": 60,
+    "navigationBarBackgroundColor": "#0bb9b6",
+    "navigationBarTextStyle": "white"
+}

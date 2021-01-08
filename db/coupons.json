@@ -1,0 +1,69 @@
+{
+    "_id": "fc5ac5c95fbd0bf9003d301f646b7191",
+    "title": "饿了么",
+    "icon": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/ele.png",
+    "coupon": [
+	    {
+            "name": "最高20无门槛",
+            "type": 1.0,
+            "url": "https://s.click.ele.me",
+            "bannerPic": "cloud://dome-3gov1djpc559cac9.646f-dome-3gov1djpc559cac9-1304566728/waimai/eletiantian.jpg",
+            "icon": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/ele.png",
+            "minapp": {
+                "appid": "wxece3a9a4c82f58c9",
+                "path": "pages/sharePid/web/index?scene=https://s.click.ele.me"
+            }
+        },
+        {
+            "name": "红包每天领",
+            "type": 1.0,
+            "url": "https://s.click.ele.me",
+            "bannerPic": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/baiyibutie.jpg",
+            "icon": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/ele.png",
+            "minapp": {
+                "appid": "wxece3a9a4c82f58c9",
+                "path": "pages/sharePid/web/index?scene=https://s.click.ele.me"
+            }
+        },
+        {
+		    "name": "大额满减券",
+            "type": 1.0,
+            "url": "https://s.click.ele.me",
+            "bannerPic": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/daemanjianquan.jpg",
+            "icon": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/ele.png",
+            "minapp": {
+                "appid": "wxece3a9a4c82f58c9",
+                "path": "pages/sharePid/web/index?scene=https://s.click.ele.me"
+            }
+        },
+        {
+		    "name": "商超天天领",
+            "type": 1.0,
+            "url": "",
+            "bannerPic": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/elechaoshi.jpg",
+            "icon": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/ele.png",
+            "minapp": {
+                "appid": "wxece3a9a4c82f58c9",
+                "path": "ele-recommend-price/pages/guest/index?inviterId=29bfa1ba"
+            }
+        }
+    ]
+}
+{
+    "_id": "4fb129165fc1ba0b007aa0ac6401caf0",
+    "title": "打车",
+    "icon": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/vip.png",
+    "coupon": [
+        {
+            "name": "花小猪大额红包",
+            "icon": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/vip.png",
+            "bannerPic": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/huaxiaozhu.jpg",
+            "url": "",
+            "type": 1.0,
+            "minapp": {
+                "appid": "wxd98a20e429ce834b",
+                "path": "pages/index/index?scene=ZqrGJL1&xpsid=115aa84cee124b4b9b7da42ce1dd5812&entrance_channel=&g_channel=8b658d6ecaa5b8285c9b36f27dc81af1&channel_id=2001001001&share_code=bvgol7rb7k543v0tp52g&city_id=355"				
+            }
+		}
+    ]
+}

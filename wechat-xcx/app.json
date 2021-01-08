@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/index/index",
+	"pages/wmindex/index",
+    "pages/detail/detail",
+    "pages/about/about",
+    "pages/search/search",
+    "pages/stype/stype"
+  ],
+  "tabBar": {
+    "color": "#707070",
+    "selectedColor": "#ec6933",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "买东西",
+        "iconPath": "images/tabbar/推荐-g.png",
+        "selectedIconPath": "images/tabbar/推荐.png"
+      },
+      {
+        "pagePath": "pages/wmindex/index",
+        "text": "点外卖",
+        "iconPath": "images/tabbar/优惠券-g.png",
+        "selectedIconPath": "images/tabbar/优惠券.png"
+      },
+      {
+        "pagePath": "pages/about/about",
+        "text": "我",
+        "iconPath": "images/tabbar/个人中心-g.png",
+        "selectedIconPath": "images/tabbar/个人中心.png"
+      }
+    ]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarTitleText": "多实惠省钱先领券",
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#0bb9b6",
+    "backgroundColor": "#f0f0f0"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,40 @@
+{
+    "_id": "fc5ac5c95fbd0bf9003d301f646b7191",
+    "title": "饿了么",
+    "icon": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/ele.png",
+    "coupon": [
+        {
+            "name": "最高20无门槛",
+            "type": 1.0,
+            "url": "https://s.click.ele.me",
+            "bannerPic": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/ele_guosu.png",
+            "icon": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/ele.png",
+            "minapp": {
+                "appid": "wxece3a9a4c82f58c9",
+                "path": "pages/sharePid/web/index?scene=https://s.click.ele.me"
+            }
+        },
+        {
+            "bannerPic": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/daemanjianquan.jpg",
+            "icon": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/ele.png",
+            "minapp": {
+                "appid": "wxece3a9a4c82f58c9",
+                "path": "pages/sharePid/web/index?scene=https://s.click.ele.me"
+            },
+            "name": "大额满减券",
+            "type": 1.0,
+            "url": "https://s.click.ele.me"
+        },
+        {
+            "bannerPic": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/baiyibutie.jpg",
+            "icon": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/ele.png",
+            "minapp": {
+                "appid": "wxece3a9a4c82f58c9",
+                "path": "ele-recommend-price/pages/guest/index?inviterId=9263ead"
+            },
+            "name": "商超天天领",
+            "type": 1.0,
+            "url": ""
+        }
+    ]
+}

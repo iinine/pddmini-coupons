@@ -1,0 +1,18 @@
+{
+    "_id": "6jd129165fc1ba0b007aa0ac6401caf0",
+    "title": "京东优选",
+    "icon": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/vip.png",
+    "coupon": [
+        {
+            "name": "超实惠领取",
+            "icon": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/vip.png",
+            "bannerPic": "cloud://maidaigou-4g5zv6qr65613d1b.6d61-maidaigou-4g5zv6qr65613d1b-1304566728/waimai/630x260-站内.jpg",
+            "url": "https://u.jd.com/tdynqM3",
+            "type": 1,
+            "minapp": {
+                "appid": "wx91d27dbf599dff74",
+                "path": ""				
+            }
+		}
+    ]
+}
