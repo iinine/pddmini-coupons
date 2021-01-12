@@ -58,16 +58,13 @@
   不想写代码的话可以用api测试工具生成推广链接：api测试工具
   
 ## 已上线案例：
-### 外卖购物
+### 外卖购物 小程序：多实惠省钱够
 ![二维码](https://github.com/iinine/pddmini-coupons/blob/main/2012.jpg)
-![展示](https://github.com/iinine/pddmini-coupons/blob/main/01.jpg)
-![展示](https://github.com/iinine/pddmini-coupons/blob/main/02.jpg)
-![展示](https://github.com/iinine/pddmini-coupons/blob/main/03.jpg)
 
-### 日历
+### 日历 小程序：轮休日历
 ![二维码](https://github.com/iinine/pddmini-coupons/blob/main/2013.jpg)
 
-## 更多教程可以关注公众号~
+## 更多教程可以关注公众号：花儿青春   
 ![二维码](https://github.com/iinine/pddmini-coupons/blob/main/2014.jpg)
 
 ## 感谢
