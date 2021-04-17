@@ -1,4 +1,4 @@
-拼多多云函数及部件代码中的goods_id修改为goods_sign
+有部分人真的没有武德，恶意投诉你大爷！！！拼多多云函数及部件代码中的goods_id修改为goods_sign，具体的自己调试
 
 
 # pddmini-coupons
@@ -60,15 +60,6 @@
 
   不想写代码的话可以用api测试工具生成推广链接：api测试工具
   
-## 已上线案例：
-### 外卖购物 小程序：多实惠省钱够
-![二维码](https://github.com/iinine/pddmini-coupons/blob/main/2012.jpg)
-
-### 日历 小程序：轮休日历
-![二维码](https://github.com/iinine/pddmini-coupons/blob/main/2013.jpg)
-
-## 更多教程可以关注公众号：花儿青春   
-![二维码](https://github.com/iinine/pddmini-coupons/blob/main/2014.jpg)
 
 ## 感谢
 非常感谢原作者   https://github.com/hedongshu/miniapp-coupons 提供的代码
