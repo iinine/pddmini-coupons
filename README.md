@@ -1,4 +1,4 @@
-有部分人真的没有武德，恶意投诉你大爷！！！拼多多云函数及部件代码中的goods_id修改为goods_sign，具体的自己调试
+拼多多云函数及部件代码中的goods_id修改为goods_sign，具体的自己调试
 
 
 # pddmini-coupons
